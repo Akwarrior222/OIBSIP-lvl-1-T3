@@ -1,0 +1,20 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #08f508;
+    text-align: center;
+    margin-top: 100px;
+  }
+  
+  .container {
+    margin-top: 20px;
+  }
+  
+  label, select, input, button {
+    margin: 10px;
+  }
+  
+  #result {
+    font-size: 18px;
+    font-weight: bold;
+  }
+  
